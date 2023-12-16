@@ -1,5 +1,5 @@
 # Searching-Binary-Array
-Day 2 DSA
+//Day 2 DSA
 
 #include <iostream>
 using namespace std;
